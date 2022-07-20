@@ -1,7 +1,5 @@
-**Ejemplo de README para desafio Latam**
+**Primer desafio, CurriculumVitae**
 
 Tecnologias usadas:
 - HTML5
-- CSS3
-- BOOTSTRAP
-- GIT
+
